@@ -55,6 +55,7 @@ Please open a pull request
 | Elasticsearch                 | https://www.elastic.co/elasticsearch     | Open source        | https://github.com/elastic/elasticsearch        | Storage         | Vector        |
 | Jina AI                       | https://jina.ai/                         | Open source        | https://github.com/jina-ai                      | Optimizer       | Vector        |
 | Haystack                      | https://haystack.deepset.ai/             | Open source        | https://github.com/deepset-ai                   | LLM Framework   | Vector        |
+| PraisonAI                     | https://docs.praison.ai/                 | Open source        | https://github.com/MervinPraison/PraisonAI      | LLM Framework   | Graph, Vector |
 | Rasa                          | https://rasa.com/                        | Open source        | https://github.com/RasaHQ/                      | LLM Framework   | Graph, Vector |
 | NebulaGraph                   | https://www.nebula-graph.io/             | Open source        | https://github.com/vesoft-inc/nebula            | Storage         | Graph         |
 | Vanna.AI                          | https://vanna.ai/                       | Open source        | https://github.com/vanna-ai/vanna            | Memory Tool         | Vector        |
