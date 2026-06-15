@@ -73,4 +73,4 @@ Please open a pull request
 | StarDog                       | https://www.stardog.com/                 | Closed             |                                                 | Storage         | Graph         |
 | supabase                      | https://supabase.com/                    | Open source        | https://github.com/supabase                     | Storage         | Vector        |
 | llongterm                      | https://www.llongterm.com/                    | Closed       |                      | Memory Tool         | Graph         |
-| Mnemoverse                    | https://mnemoverse.com/                  | Managed, Open source | https://github.com/mnemoverse/mcp-memory-server | Memory Tool     | Vector        |
+| Mnemoverse                    | https://mnemoverse.com/                  | Managed              | https://github.com/mnemoverse/mcp-memory-server | Memory Tool     | Graph, Vector |
